@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">676825765393-pt2pmf5141rfa811dipm1st4scu19tq9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://yachat-74322.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">676825765393</string>
+    <string name="google_api_key" translatable="false">AIzaSyC9WSgVP1mFj1O-n_rOZKD8lXylhZ0aCtI</string>
+    <string name="google_app_id" translatable="false">1:676825765393:android:cbbf6ac1133e1701</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC9WSgVP1mFj1O-n_rOZKD8lXylhZ0aCtI</string>
+    <string name="google_storage_bucket" translatable="false">yachat-74322.appspot.com</string>
+    <string name="project_id" translatable="false">yachat-74322</string>
+</resources>

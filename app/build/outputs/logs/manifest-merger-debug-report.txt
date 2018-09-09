@@ -1,0 +1,580 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:2:1-55:12
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/d63de0e6af8e8b0e045f76307055eb3f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/239de26de0e9facb3ba157774e8d3e07/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/054efa797ffba74588ef30b4a52588e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b07e465612280ebe47a3e2a73ce19737/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-core:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.3.aar/217d52e2bdff3f7ff6089ff8ab1789d7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.firebaseui:firebase-ui-database:4.1.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-4.1.0.aar/731d4662d178e51b68a0cead50876531/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.1.aar/52dc25b23616f75043e6bde09c1ce6f7/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.1.aar/150255ad2a96bd8e0e7cb82d49eb9b77/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/cf2ab66be883e27d08c10659d9d19329/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/d84b6dc4a9caba6bee30389ae847dcc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/4d0d5f5e37a11c4f15c71b61f5c8e246/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.1.aar/7f7d7cd67ddf255c6fdf3f96f55aaa97/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/ecee1a0ef09a1ba1d540aa08daf0e0d2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a0ce1db544d3fb67f4c29b788f61b3a0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/dcf380df1687f9e29d036c2343281996/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fe0f7ace1d71ab070ff9ebbc109584c0/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/72bc64da461a700636570abfa44dc366/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/778920ed92c7be38e9812b4f38eb79da/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/541755f28731b9fafa3c55df0578f79e/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/c9a1835518fb032cba3073f814a3e7dc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/9457a6e9807f04cf836e0f38dd579492/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.0.aar/51308c91f433d979606f3fc24a58d611/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/f00c2f4ef8a4ebd6966a80e77424748d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/c884000711867d85c1a6dc1193cec721/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a206def909ffe35824944ae82201a67d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/00801dfcff0ec2cdd4b81cdebe193fc0/AndroidManifest.xml:2:1-14:12
+MERGED from [id.zelory:compressor:2.1.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/36e1f70b844703d494dd5eda2e6e8723/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/c339810e8182f088f9965539a8e71da9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/157466ec35cacef3bc2cd6fb15c19fb8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/8d396f67740d2b8863d5ccb3f6629eb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/792fdf80080cfeef51df6cd1ee90361e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/526f54ef995c510efb1def148448eb18/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/24b0c885fb47a0b1dc3a2061c8eba259/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/8060ee053f3a838fceb68c973d473e2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/bf796fc228705c1ea123c347d3241de8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/9f41c4afe5825194c003d2709d2a28be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/a1f7b5fc3b2193d3b911c9984bf84265/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/a9ac3ec257f4633f33ddd904722c82e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/410a44aeb8284722e1fab760a4076b16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/c123a433b1d6a2ffbe6686d827075ad6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/3bc86368bbfbec227f669660b9877720/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/85db17f37c72bc2065f9834081df66ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/5121dc6bdcc73d1eb80c2926715c33e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c4e5f5d814a4932269af619c5cfcddc3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/323708711018ac0fc23b4f1f20bcad05/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/3474d1dc3e812680a7e8850b4ae7f784/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:4.1.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-4.1.0.aar/577cc016efc1e881feef723f80abf018/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/35096cae044741e8b3fc35ec42b9f16c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/bb1df942105598668b205e84cde71ee3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/52e8325aee174241d6a2ee4ecf433334/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/289387e8c1554796262fdaf126f176cf/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ffead329b4fa19edf9ae69020cbbaab5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/725f9bc882056ba1b83f4c40b251538e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/2a92486accbaba46b8b3f23e4bc9d603/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a14a3a9a2fe823cff72f1027bd09b69b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/822bb7aaeb65d5234eaa96111828519d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/6b051506a3eaf93dd528dcaaec1f7f13/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.2.aar/30c1ece4d8b4e71b442bd8055b1d0969/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:8:5-53:19
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/d63de0e6af8e8b0e045f76307055eb3f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/d63de0e6af8e8b0e045f76307055eb3f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b07e465612280ebe47a3e2a73ce19737/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b07e465612280ebe47a3e2a73ce19737/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-core:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.3.aar/217d52e2bdff3f7ff6089ff8ab1789d7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.3.aar/217d52e2bdff3f7ff6089ff8ab1789d7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.3.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/cf2ab66be883e27d08c10659d9d19329/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/cf2ab66be883e27d08c10659d9d19329/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/4d0d5f5e37a11c4f15c71b61f5c8e246/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/4d0d5f5e37a11c4f15c71b61f5c8e246/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.1.aar/7f7d7cd67ddf255c6fdf3f96f55aaa97/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.1.aar/7f7d7cd67ddf255c6fdf3f96f55aaa97/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/ecee1a0ef09a1ba1d540aa08daf0e0d2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/ecee1a0ef09a1ba1d540aa08daf0e0d2/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a0ce1db544d3fb67f4c29b788f61b3a0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a0ce1db544d3fb67f4c29b788f61b3a0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fe0f7ace1d71ab070ff9ebbc109584c0/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fe0f7ace1d71ab070ff9ebbc109584c0/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/72bc64da461a700636570abfa44dc366/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/72bc64da461a700636570abfa44dc366/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/c9a1835518fb032cba3073f814a3e7dc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/c9a1835518fb032cba3073f814a3e7dc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/9457a6e9807f04cf836e0f38dd579492/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/9457a6e9807f04cf836e0f38dd579492/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.0.aar/51308c91f433d979606f3fc24a58d611/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.0.aar/51308c91f433d979606f3fc24a58d611/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/f00c2f4ef8a4ebd6966a80e77424748d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/f00c2f4ef8a4ebd6966a80e77424748d/AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a206def909ffe35824944ae82201a67d/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a206def909ffe35824944ae82201a67d/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/00801dfcff0ec2cdd4b81cdebe193fc0/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/00801dfcff0ec2cdd4b81cdebe193fc0/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c4e5f5d814a4932269af619c5cfcddc3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c4e5f5d814a4932269af619c5cfcddc3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/323708711018ac0fc23b4f1f20bcad05/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/323708711018ac0fc23b4f1f20bcad05/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.2.aar/30c1ece4d8b4e71b442bd8055b1d0969/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.2.aar/30c1ece4d8b4e71b442bd8055b1d0969/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c4e5f5d814a4932269af619c5cfcddc3/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:9:9-31
+service#com.gohool.yachat.yachat.FirebaseMessagingService
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:16:9-20:19
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:16:18-58
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:17:13-19:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:18:17-78
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:18:25-75
+activity#com.gohool.yachat.yachat.MainActivity
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.gohool.yachat.yachat.StartActivity
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:29:9-51
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:29:19-48
+activity#com.gohool.yachat.yachat.RegisterActivity
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:30:9-32:59
+	android:parentActivityName
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:31:13-45
+activity#com.gohool.yachat.yachat.LoginActivity
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:33:9-51
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:33:19-48
+activity#com.gohool.yachat.yachat.SettingsActivity
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:34:9-54
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:34:19-51
+activity#com.gohool.yachat.yachat.StatusActivity
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:35:9-37:62
+	android:parentActivityName
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:37:13-59
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:36:13-43
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:38:9-40:59
+	android:theme
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:39:13-76
+activity#com.gohool.yachat.yachat.UsersActivity
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:41:9-43:58
+	android:parentActivityName
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:43:13-55
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:42:13-42
+activity#com.gohool.yachat.yachat.ProfileActivity
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:44:9-50:20
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:44:19-50
+intent-filter#action:name:com.gohool.yachat_TARGET_NOTIFICATION+category:name:android.intent.category.DEFAULT
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:45:13-49:29
+action#com.gohool.yachat_TARGET_NOTIFICATION
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:46:17-80
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:46:25-77
+category#android.intent.category.DEFAULT
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:48:27-73
+activity#com.gohool.yachat.yachat.ChatActivity
+ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:51:9-52:67
+	android:parentActivityName
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:52:13-55
+	android:name
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml:51:19-47
+uses-sdk
+INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/d63de0e6af8e8b0e045f76307055eb3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/d63de0e6af8e8b0e045f76307055eb3f/AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/239de26de0e9facb3ba157774e8d3e07/AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.7.0.aar/239de26de0e9facb3ba157774e8d3e07/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/054efa797ffba74588ef30b4a52588e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/054efa797ffba74588ef30b4a52588e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b07e465612280ebe47a3e2a73ce19737/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/b07e465612280ebe47a3e2a73ce19737/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.3.aar/217d52e2bdff3f7ff6089ff8ab1789d7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.3.aar/217d52e2bdff3f7ff6089ff8ab1789d7/AndroidManifest.xml:5:5-44
+MERGED from [com.firebaseui:firebase-ui-database:4.1.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-4.1.0.aar/731d4662d178e51b68a0cead50876531/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:4.1.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-4.1.0.aar/731d4662d178e51b68a0cead50876531/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.1.aar/52dc25b23616f75043e6bde09c1ce6f7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.1.aar/52dc25b23616f75043e6bde09c1ce6f7/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.1.aar/150255ad2a96bd8e0e7cb82d49eb9b77/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.1.aar/150255ad2a96bd8e0e7cb82d49eb9b77/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/cf2ab66be883e27d08c10659d9d19329/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/cf2ab66be883e27d08c10659d9d19329/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/d84b6dc4a9caba6bee30389ae847dcc5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/d84b6dc4a9caba6bee30389ae847dcc5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/4d0d5f5e37a11c4f15c71b61f5c8e246/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.0.aar/4d0d5f5e37a11c4f15c71b61f5c8e246/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.1.aar/7f7d7cd67ddf255c6fdf3f96f55aaa97/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.1.aar/7f7d7cd67ddf255c6fdf3f96f55aaa97/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/ecee1a0ef09a1ba1d540aa08daf0e0d2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/ecee1a0ef09a1ba1d540aa08daf0e0d2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a0ce1db544d3fb67f4c29b788f61b3a0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a0ce1db544d3fb67f4c29b788f61b3a0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/dcf380df1687f9e29d036c2343281996/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/dcf380df1687f9e29d036c2343281996/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fe0f7ace1d71ab070ff9ebbc109584c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fe0f7ace1d71ab070ff9ebbc109584c0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/72bc64da461a700636570abfa44dc366/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/72bc64da461a700636570abfa44dc366/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/778920ed92c7be38e9812b4f38eb79da/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-15.0.1.aar/778920ed92c7be38e9812b4f38eb79da/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/541755f28731b9fafa3c55df0578f79e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/541755f28731b9fafa3c55df0578f79e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/c9a1835518fb032cba3073f814a3e7dc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/c9a1835518fb032cba3073f814a3e7dc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/9457a6e9807f04cf836e0f38dd579492/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/9457a6e9807f04cf836e0f38dd579492/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.0.aar/51308c91f433d979606f3fc24a58d611/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.0.aar/51308c91f433d979606f3fc24a58d611/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/f00c2f4ef8a4ebd6966a80e77424748d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/f00c2f4ef8a4ebd6966a80e77424748d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/c884000711867d85c1a6dc1193cec721/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-rc01.aar/c884000711867d85c1a6dc1193cec721/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a206def909ffe35824944ae82201a67d/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/circleimageview-2.2.0.aar/a206def909ffe35824944ae82201a67d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/00801dfcff0ec2cdd4b81cdebe193fc0/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/00801dfcff0ec2cdd4b81cdebe193fc0/AndroidManifest.xml:5:5-44
+MERGED from [id.zelory:compressor:2.1.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/36e1f70b844703d494dd5eda2e6e8723/AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/36e1f70b844703d494dd5eda2e6e8723/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/c339810e8182f088f9965539a8e71da9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/c339810e8182f088f9965539a8e71da9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/157466ec35cacef3bc2cd6fb15c19fb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/157466ec35cacef3bc2cd6fb15c19fb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/8d396f67740d2b8863d5ccb3f6629eb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/8d396f67740d2b8863d5ccb3f6629eb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/792fdf80080cfeef51df6cd1ee90361e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/792fdf80080cfeef51df6cd1ee90361e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/526f54ef995c510efb1def148448eb18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/526f54ef995c510efb1def148448eb18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/24b0c885fb47a0b1dc3a2061c8eba259/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/24b0c885fb47a0b1dc3a2061c8eba259/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/8060ee053f3a838fceb68c973d473e2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/8060ee053f3a838fceb68c973d473e2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/bf796fc228705c1ea123c347d3241de8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/bf796fc228705c1ea123c347d3241de8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/9f41c4afe5825194c003d2709d2a28be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/9f41c4afe5825194c003d2709d2a28be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/a1f7b5fc3b2193d3b911c9984bf84265/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/a1f7b5fc3b2193d3b911c9984bf84265/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/a9ac3ec257f4633f33ddd904722c82e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/a9ac3ec257f4633f33ddd904722c82e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/410a44aeb8284722e1fab760a4076b16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/410a44aeb8284722e1fab760a4076b16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/c123a433b1d6a2ffbe6686d827075ad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/c123a433b1d6a2ffbe6686d827075ad6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/3bc86368bbfbec227f669660b9877720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/3bc86368bbfbec227f669660b9877720/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/85db17f37c72bc2065f9834081df66ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/85db17f37c72bc2065f9834081df66ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/5121dc6bdcc73d1eb80c2926715c33e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc01.aar/5121dc6bdcc73d1eb80c2926715c33e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c4e5f5d814a4932269af619c5cfcddc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/c4e5f5d814a4932269af619c5cfcddc3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/323708711018ac0fc23b4f1f20bcad05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/323708711018ac0fc23b4f1f20bcad05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/3474d1dc3e812680a7e8850b4ae7f784/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/3474d1dc3e812680a7e8850b4ae7f784/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:4.1.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-4.1.0.aar/577cc016efc1e881feef723f80abf018/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:4.1.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-ui-common-4.1.0.aar/577cc016efc1e881feef723f80abf018/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/35096cae044741e8b3fc35ec42b9f16c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/35096cae044741e8b3fc35ec42b9f16c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/bb1df942105598668b205e84cde71ee3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/bb1df942105598668b205e84cde71ee3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/52e8325aee174241d6a2ee4ecf433334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/52e8325aee174241d6a2ee4ecf433334/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/289387e8c1554796262fdaf126f176cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/289387e8c1554796262fdaf126f176cf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ffead329b4fa19edf9ae69020cbbaab5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ffead329b4fa19edf9ae69020cbbaab5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/725f9bc882056ba1b83f4c40b251538e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/725f9bc882056ba1b83f4c40b251538e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/2a92486accbaba46b8b3f23e4bc9d603/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/2a92486accbaba46b8b3f23e4bc9d603/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a14a3a9a2fe823cff72f1027bd09b69b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a14a3a9a2fe823cff72f1027bd09b69b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/822bb7aaeb65d5234eaa96111828519d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/822bb7aaeb65d5234eaa96111828519d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/6b051506a3eaf93dd528dcaaec1f7f13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/6b051506a3eaf93dd528dcaaec1f7f13/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.2.aar/30c1ece4d8b4e71b442bd8055b1d0969/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.2.aar/30c1ece4d8b4e71b442bd8055b1d0969/AndroidManifest.xml:5:5-44
+INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lixuan/Documents/AndroidStudioProjects/YaChat/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.3.aar/30d5d1debb43d01b3a626381370e7145/AndroidManifest.xml:33:17-109
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-database:4.1.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-4.1.0.aar/731d4662d178e51b68a0cead50876531/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/dcf380df1687f9e29d036c2343281996/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-16.0.1.aar/dcf380df1687f9e29d036c2343281996/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/541755f28731b9fafa3c55df0578f79e/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/541755f28731b9fafa3c55df0578f79e/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:4.1.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-4.1.0.aar/731d4662d178e51b68a0cead50876531/AndroidManifest.xml:11:22-64
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/cf2ab66be883e27d08c10659d9d19329/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/cf2ab66be883e27d08c10659d9d19329/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.0.aar/cf2ab66be883e27d08c10659d9d19329/AndroidManifest.xml:29:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/541755f28731b9fafa3c55df0578f79e/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-16.0.1.aar/541755f28731b9fafa3c55df0578f79e/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/fc1e3415d4a1efb6828dda57f2eb2849/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0d81795411ffee2d3e3f5fb93b6b24cb/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/d9e78b7821db6eff69d7f66c6a0db51c/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.0.aar/cbb3ddd998da49beaa4504cc470136ab/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a0ce1db544d3fb67f4c29b788f61b3a0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a0ce1db544d3fb67f4c29b788f61b3a0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a0ce1db544d3fb67f4c29b788f61b3a0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/a0ce1db544d3fb67f4c29b788f61b3a0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fe0f7ace1d71ab070ff9ebbc109584c0/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fe0f7ace1d71ab070ff9ebbc109584c0/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fe0f7ace1d71ab070ff9ebbc109584c0/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fe0f7ace1d71ab070ff9ebbc109584c0/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fe0f7ace1d71ab070ff9ebbc109584c0/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/f00c2f4ef8a4ebd6966a80e77424748d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/f00c2f4ef8a4ebd6966a80e77424748d/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/f00c2f4ef8a4ebd6966a80e77424748d/AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/00801dfcff0ec2cdd4b81cdebe193fc0/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/00801dfcff0ec2cdd4b81cdebe193fc0/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/00801dfcff0ec2cdd4b81cdebe193fc0/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/lixuan/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/00801dfcff0ec2cdd4b81cdebe193fc0/AndroidManifest.xml:9:13-64

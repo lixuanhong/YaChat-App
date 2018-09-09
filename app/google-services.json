@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "676825765393",
+    "firebase_url": "https://yachat-74322.firebaseio.com",
+    "project_id": "yachat-74322",
+    "storage_bucket": "yachat-74322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676825765393:android:cbbf6ac1133e1701",
+        "android_client_info": {
+          "package_name": "com.gohool.yachat.yachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676825765393-caqhhhiu5rdfrflovo3d4pmu6av8l1fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gohool.yachat.yachat",
+            "certificate_hash": "ef6d9601efaf57a460f50b8992c5b00c9d288f04"
+          }
+        },
+        {
+          "client_id": "676825765393-pt2pmf5141rfa811dipm1st4scu19tq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9WSgVP1mFj1O-n_rOZKD8lXylhZ0aCtI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676825765393-pt2pmf5141rfa811dipm1st4scu19tq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
